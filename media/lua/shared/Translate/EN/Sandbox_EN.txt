@@ -1,0 +1,11 @@
+Sandbox_EN = {
+    Sandbox_WeightSettings = "Weight settings"
+    Sandbox_WeightSettings_PlayersMaxBaseWeightMultiplier = "Players max base weight multiplier"
+    Sandbox_WeightSettings_PlayersMaxBaseWeightMultiplier_tooltip = "Multiplier value to change the maximum base weight for all players. There may be problems with the final value of the maximum base weight (IsoGameCharacter:getMaxWeightBase()), as some mods change it without focusing on the previous value."
+    Sandbox_WeightSettings_ItemsWeightMultiplier = "Items weight multiplier"
+    Sandbox_WeightSettings_ItemsWeightMultiplier_tooltip = "Multiplier value to change the weight for all items. Works for items from mods."
+    Sandbox_WeightSettings_ContainersCapacityMultiplier = "Containers capacity multiplier"
+    Sandbox_WeightSettings_ContainersCapacityMultiplier_tooltip = "Multiplier value to change the capacity for all container items. Works for items from mods."
+    Sandbox_WeightSettings_ContainersWeightReductionMultiplier = "Containers weight reduction multiplier"
+    Sandbox_WeightSettings_ContainersWeightReductionMultiplier_tooltip = "Multiplier value to change the weight reduction for all container items. Works for items from mods."
+}

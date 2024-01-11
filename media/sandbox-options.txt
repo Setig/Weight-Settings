@@ -1,0 +1,41 @@
+VERSION = 1,
+
+option WeightSettings.PlayersMaxBaseWeightMultiplier
+{
+	type = double,
+	min = 0,
+	max = 100000,
+	default = 1,
+	page = WeightSettings,
+	translation = WeightSettings_PlayersMaxBaseWeightMultiplier,
+}
+
+option WeightSettings.ItemsWeightMultiplier
+{
+	type = double,
+	min = 0,
+	max = 100000,
+	default = 1,
+	page = WeightSettings,
+	translation = WeightSettings_ItemsWeightMultiplier,
+}
+
+option WeightSettings.ContainersCapacityMultiplier
+{
+	type = double,
+	min = 0,
+	max = 100000,
+	default = 1,
+	page = WeightSettings,
+	translation = WeightSettings_ContainersCapacityMultiplier,
+}
+
+option WeightSettings.ContainersWeightReductionMultiplier
+{
+	type = double,
+	min = 0,
+	max = 100000,
+	default = 1,
+	page = WeightSettings,
+	translation = WeightSettings_ContainersWeightReductionMultiplier,
+}

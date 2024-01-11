@@ -1,0 +1,5 @@
+UI_EN = {
+    UI_Options_WeightSettings = "Weight settings"
+    UI_Options_WeightSettings_ShowDebugMenu_Name = "Show debug menu"
+    UI_Options_WeightSettings_ShowDebugMenu_Tooltip = "Adding option for context menu for weight settings debug."
+}
